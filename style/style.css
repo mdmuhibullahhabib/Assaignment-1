@@ -154,6 +154,14 @@ opacity: 0.7;
     margin: 24px 0px;
     
 }
+.inspiration-video{
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    padding: 32px;
+    text-align: center;
+
+}
 
 /* target */
 
@@ -203,4 +211,15 @@ opacity: 0.7;
    background: rgba(255, 223, 0, 0.05);
    margin: 0px 24px;
    padding: 40px ;
+}
+
+/* support */
+.support-title{
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: center;
 }
